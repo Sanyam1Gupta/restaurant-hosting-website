@@ -3,7 +3,7 @@
 The goal of this project is to build a Restaurant Hosting Website which can be used by a specific restaurant.
 
 ## Requirements-
-#### 1.)NodeJS
+#### 1.)NodeJS (JavaScript run-time environment)
 #### 2.)A local server like XAMPP
 #### 3.)MySQL database
 #### 4.)PHP environment
@@ -22,5 +22,5 @@ Contains information which would be important to contact the restaurant authorit
 Contains a online food ordering system by making use of a shopping cart.The cart contains list of dishes served by the restaurant.
 
 ### NOTE-
-To use this application after cloning it, delete the items in "tblproduct" mysql database and add to it the dishes mentioned in the "Menu" component. 
+You can add more items(dishes) into "tblproduct.sql" to add them into the MySQL database.
 
