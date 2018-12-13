@@ -11,7 +11,7 @@ The goal of this project is to build a Restaurant Hosting Website which can be u
 
 ## Principal Components-
 #### 1.)Home- 
-Its the home page for my application.Equipped with a navigation bar to go to various other pages. Has an important feature of "Reserve Table" modal which can be used to reserve table online and details of which are saved onto Firebase.
+It is the home page for my application.Equipped with a navigation bar to go to various other pages. Has an important feature of "Reserve Table" modal which can be used to reserve table online and details of which are saved onto Firebase.
 #### 2.)About-
 Contains information pertaining to the history and some specific facts and figures of the restaurant.Also includes information about the Corporate Leadership.
 #### 3.)Menu-
